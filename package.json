@@ -1,0 +1,21 @@
+{
+  "name": "qs",
+  "private": true,
+  "scripts": {
+    "build": "nuxt build",
+    "dev": "nuxt dev",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview",
+    "postinstall": "nuxt prepare"
+  },
+  "devDependencies": {
+    "@nuxt/devtools": "latest",
+    "@types/node": "^18",
+    "nuxt": "^3.6.2"
+  },
+  "version": "1.0.0",
+  "description": "Quick Start Guide",
+  "main": "index.js",
+  "author": "Santiago M. <santiago.moguel.secades@gmail.com>",
+  "license": "MIT"
+}
